@@ -1,2 +1,2 @@
 #!/bin/bash
-for file in *.hml do cp -u "$file" ../"$file" done
+cp -un *.html ../
